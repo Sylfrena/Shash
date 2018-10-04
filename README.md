@@ -1,3 +1,3 @@
 # Shash
 
-* Journey Before Destination*
+ Journey Before Destination
